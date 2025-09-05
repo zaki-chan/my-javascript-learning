@@ -3,3 +3,28 @@
 
 # Log files
 *.log
+
+# Logs
+moz-todo-react/logs
+moz-todo-react/*.log
+moz-todo-react/npm-debug.log*
+moz-todo-react/yarn-debug.log*
+moz-todo-react/yarn-error.log*
+moz-todo-react/pnpm-debug.log*
+moz-todo-react/lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
