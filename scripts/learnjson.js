@@ -42,6 +42,7 @@ function populateHeroes(obj){
         myPara1.textContent = `Secret identity: ${hero.secretIdentity}`;
         myPara2.textContent = `Age: ${hero.age}`;
         myPara3.textCOntent = "Superpowers:";
+        myPara3.textContent = "Superpowers:";
 
         const superPowers = hero.powers;
         for(const power of superPowers){
