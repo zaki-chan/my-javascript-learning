@@ -45,7 +45,19 @@ function populateHeroes(obj){
 
         const superPowers = hero.powers;
         for(const power of superPowers){
-            
+            const listItem = document.createElement("li");
+            listItem.textContent = power;
+            myList.appendChild(listItem);
         }
+
+        myArticle.appendChild(myH2);
+        myArticle.appendChild(myPara1);
+        myArticle.appendChild(myPara2);
+        myArticle.appendChild(myPara3);
+        myArticle.appendChild(myList);
+
+        section.appendChild(myArticle);
     }
 }
+
+populate();
