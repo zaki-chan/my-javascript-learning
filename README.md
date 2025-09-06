@@ -7,6 +7,8 @@ moz-todo-react is a vite and react app.This is made to learn setting up react ap
 pages include html,and scripts include javascript code. They are scripts of mdn javascript tutorial.
 sources and styles are resources for learning javascript along mdn javascript tutorial.
 
+# tools
+proto sets node version 22
 
 2025/09/05
 I'll do from

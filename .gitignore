@@ -18,6 +18,15 @@ dist
 dist-ssr
 *.local
 
+# yarn
+moz-todo-react/.pnp.*
+moz-todo-react/.yarn/*
+!moz-todo-react/.yarn/patches
+!moz-todo-react/.yarn/plugins
+!moz-todo-react/.yarn/releases
+!moz-todo-react/.yarn/sdks
+!moz-todo-react/.yarn/versions
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

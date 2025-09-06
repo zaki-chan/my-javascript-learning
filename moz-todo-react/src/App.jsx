@@ -7,6 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    // フラグメント：Reactコンポーネントは単一のJSX要素を返す。
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
@@ -31,5 +32,5 @@ function App() {
     </>
   )
 }
-
+// export文は他からApp関数を利用できるようにする。
 export default App
