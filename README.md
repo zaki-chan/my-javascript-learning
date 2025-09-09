@@ -10,6 +10,5 @@ sources and styles are resources for learning javascript along mdn javascript tu
 # tools
 proto sets node version 22
 
-2025/09/05
-I'll do from
-https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started#%E6%9C%80%E5%88%9D%E3%81%AE_react_%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%99%E3%82%8B
+2025/09/09
+I'll do next from https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries/React_interactivity_events_state
